@@ -1,0 +1,23 @@
+body{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+#header{
+    background-color: #FFCC66;
+    display: flexbox;
+    align-content: center;
+    border: outset #FFCC66;
+    border-radius: 10px;
+}
+h1{
+    font-size: 84px;
+    color: gray;
+    text-shadow: black 2px 2px;
+}
+#body{
+    background-color: bisque;
+    text-align: center;
+
+}
+#fab{
+    margin-left: 832 px;
+}
